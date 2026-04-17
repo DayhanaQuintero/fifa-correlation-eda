@@ -1,21 +1,19 @@
-# fifa-correlation-eda
-Exploratory Data Analysis focused on correlation and visualization using Python and Plotly.
-# FIFA Correlation EDA
+# FIFA Player Data — Correlation & EDA ⚽
 
-## Overview
-This project explores relationships between player attributes using Exploratory Data Analysis techniques.
+Exploratory data analysis and correlation study 
+on FIFA player attributes from EA Sports dataset.
 
-The main objective was to analyze correlation patterns and identify relationships between Age and Overall rating.
-
-## Analysis Performed
-- Data cleaning
-- Correlation matrix
-- Heatmap visualization
-- Scatter plot with regression line
-- Interpretation of trends
+## Objective
+Identify relationships between player attributes 
+such as speed, shooting, passing and overall rating
+to understand what drives player performance.
 
 ## Tools
-Python, Pandas, NumPy, Plotly
+- Python (pandas, seaborn, matplotlib)
+- Jupyter Notebook
 
-## Key Insight
-The analysis reveals how age influences player overall rating and highlights correlation patterns among performance metrics.
+## Process
+1. Data loading and cleaning
+2. Descriptive statistics
+3. Correlation matrix between player attributes
+4. Visualizations: heatmaps, scatter plots, distributions
