@@ -17,3 +17,10 @@ to understand what drives player performance.
 2. Descriptive statistics
 3. Correlation matrix between player attributes
 4. Visualizations: heatmaps, scatter plots, distributions
+
+## Key Findings
+- Strong correlation between overall rating and shooting/pace.
+- Certain attributes have higher influence on performance.
+
+## Business Insight
+- Useful for scouting and player valuation strategies.
